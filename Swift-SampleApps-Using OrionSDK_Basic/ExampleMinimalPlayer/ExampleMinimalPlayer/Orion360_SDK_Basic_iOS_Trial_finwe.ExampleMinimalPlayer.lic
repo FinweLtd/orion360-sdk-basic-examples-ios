@@ -1,0 +1,15 @@
+# This file contains the list of applications
+# for which this Orion360 license is valid
+# Please do not modify this file in any way
+packagename=finwe.ExampleMinimalPlayer
+logo=finwe
+enableFeatureExplicit=tags,screenshots,viewport_split
+platform=ios
+version=Orion1
+========== BEGIN-SIGNATURE-V1 ==========
+kknYUQWxeR2Fi5HRenwq34Ct0GfF0O7ylECsJFUfOjx8Vlj+K0D4PiCz86pkTrDeWr06c224yer9
+NW/yBd2g8e1n3bX6jmbcffDCiH3vTlrnXmZCIFUgtL82J5TKZMKwKmSeIm9ai8rQ9Lm2I431ElwN
+j5SbtxHK5jB6ug5CWOerXuxf4hQqM3SGAwm85I6VbSl+fbL2lAoW7qPum2svS3isfXFB6eE1CJsi
+1J/WvCiuifDxIgnOEcBynzeXtOkVV/GPFi1DffIdcRVhxd/tAdFvai0015cBZvV4rsTQrFf3rq0l
+BVxbDH1RmXjfOnJFEk9vJHaBKHfQrbkbM//OVg==
+=========== END-SIGNATURE-V1 ===========
