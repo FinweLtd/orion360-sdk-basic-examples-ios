@@ -1,6 +1,8 @@
 # orion360-sdk-basic-examples-ios
 Repository for Orion360 SDK Basic for iOS with Swift, Examples
 
+![3fda62e0-79e6-11e6-9f00-15bb10c29dd3](https://user-images.githubusercontent.com/36510685/36966726-643d6682-2066-11e8-989a-0447ecb05149.png)
+
 ## License
 
 Orion360 SDK is a commercial product and requires a license file to work. An evaluation license is provided with the sample app. You can get a watermarked evaluation license file also for your own bundle identifier by creating an account on [https://store.make360app.com](https://store.make360app.com/), starting a new SDK project, providing your own package name, and selecting FREE Trial.
