@@ -78,7 +78,7 @@ class ViewController: UIViewController, Orion1ViewDelegate, UIGestureRecognizerD
         let licenseUrl = URL(fileURLWithPath: path ?? "")
         
         //Video URL
-        let videoUrl = URL(string: "https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/2529/7/187645100/620120791.mp4?token=1520248711-0x55c2f0e9ecddf5b9e76ed1b57c5618832b1de7b6")
+        let videoUrl = URL(string: "https://s3.amazonaws.com/orion360-us/PowerPark_test_video_2d_equi_360x180deg_1920x1080_25fps_55s_x264.mp4")
         
         //Set video and license url
         orionView.initVideo(with: videoUrl, previewImageUrl: nil, licenseFileUrl: licenseUrl)

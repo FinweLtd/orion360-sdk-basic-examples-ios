@@ -37,7 +37,7 @@ class ViewController: UIViewController, Orion1ViewDelegate
         let licenseUrl = URL(fileURLWithPath: path ?? "")
         
         /* Video from URL */
-        let videoUrl = URL(string: "https://player.vimeo.com/external/201193129.hd.mp4?s=b88f95dd058b21dac7829723f4dac32c26820900&profile_id=119")
+        let videoUrl = URL(string: "https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/238/8/201193129/680481972.mp4?token=1520335646-0xa3b490c87648a70d8fc169546e82c951be48833e")
         orionView.initVideo(with: videoUrl, previewImageUrl: nil, licenseFileUrl: licenseUrl)
         
         /*
