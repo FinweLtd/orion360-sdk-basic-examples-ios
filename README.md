@@ -25,7 +25,7 @@ Full API documentation is also included in the release package.
 
 1.  The Orion360 SDK for iOS requires the standard development environment for iOS apps (Xcode Developer Tool).
 2.  The easiest way to take the SDK to use is to utilize the CocoaPods framework. CocoaPods installation guide and step by step procedure to add OrionSDK Basic to your project is described on:  [https://github.com/FinweLtd/orion360-sdk-basic-hello-ios](https://github.com/FinweLtd/orion360-sdk-basic-hello-ios).
-3.  Open terminal, type “cd” then drag and drop one of the example project folder and press ** Return key ↵**.   
+3.  Open terminal, type “cd” then drag and drop one of the example project folder and press **"Return key ↵"**.   
     ```
 	cd <drag and drop your project folder>
 	 ```
