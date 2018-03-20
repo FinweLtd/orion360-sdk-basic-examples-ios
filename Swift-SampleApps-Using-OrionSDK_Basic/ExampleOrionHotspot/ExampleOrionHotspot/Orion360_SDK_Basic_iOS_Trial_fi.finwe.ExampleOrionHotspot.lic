@@ -1,0 +1,15 @@
+# This file contains the list of applications
+# for which this Orion360 license is valid
+# Please do not modify this file in any way
+packagename=fi.finwe.ExampleOrionHotspot
+logo=finwe
+enableFeatureExplicit=tags,screenshots,viewport_split
+platform=ios
+version=Orion1
+========== BEGIN-SIGNATURE-V1 ==========
+JqrJdlR6KmSZm0Jlk6BOB9W3XUxFvqddxq8FC9smu/Y4RR3JCon/uqRbMeiuIt1na1gnv6Yzmp1A
+GAPkON8eJJRxOpOzjrewJaNcK0vY09UivuYFsMt5ae6Fbr1qlMBDsl9Vx5gSHJODoFjRc7Nm3R3g
+0ITfESCl6y19zvUtvXm98+0eUrnGYZn9lqK903y92IxLMMFKd7TqQa65/GBk0Hr8UWvm5AFp0+JC
+KlJO/rcpqLFmhdY6LJxwbrcbPB9QcNxunhUMydRBprtS5MP2NUGHIM8r3vf9m7P0/PRDmRSZZ6+N
+FvpyXc6DRcZLMsMLTtiq1EqzXvYdGZEHTIvnBQ==
+=========== END-SIGNATURE-V1 ===========
